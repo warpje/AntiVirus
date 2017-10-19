@@ -1,0 +1,10 @@
+D:\C#\Projects\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe.config
+D:\C#\Projects\AntiVirus\AntiVirus\bin\Debug\AntiVirus.exe
+D:\C#\Projects\AntiVirus\AntiVirus\bin\Debug\AntiVirus.pdb
+D:\C#\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csprojResolveAssemblyReference.cache
+D:\C#\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.FormMain.resources
+D:\C#\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.Properties.Resources.resources
+D:\C#\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csproj.GenerateResource.Cache
+D:\C#\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.csproj.CoreCompileInputs.cache
+D:\C#\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.exe
+D:\C#\Projects\AntiVirus\AntiVirus\obj\Debug\AntiVirus.pdb
